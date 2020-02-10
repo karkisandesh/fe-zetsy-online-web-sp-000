@@ -17,7 +17,7 @@ body {
 	padding: 0 45px 20px;
 }
 
-#title{
+#title:hover{
 	color:rgb(158, 169, 165);
 	font: 5em "New Athena Unicode", Baskerville, "Times New Roman";
 	margin: 0;
