@@ -50,7 +50,7 @@ div#press-pics img{
 	border-color: rgb(203, 205, 204);
 }
 
-div#press-pics img:hover{
+#press-pics img:hover{
 	border-color: rgb(117,128,123);	
 }
 
