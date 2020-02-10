@@ -17,4 +17,34 @@ body {
 	padding: 0 45px 20px;
 }
 
+#zetsy{
+  color: #0048BA;
+  font-size: 5em;
+}
+
+#zetsy img{
+  border: 5px gray solid;
+}
+
+#about{
+  color: gray;
+  font-size: 2em;
+}
+
+#press{
+  color: gray;
+  font-size: 2em;
+}
+
+.press{
+ 
+}
+
+.footer{
+  font-size: 0.8em;
+  text-align: right;
+}
+
+
+
 /* Write all remaining styles here */
