@@ -54,12 +54,12 @@ div#press-pics img:hover{
 	border-color: rgb(117,128,123);	
 }
 
-p#info{
+#info{
 	float: right;
 	font-size: 0.75em;
 }
 
-div#press-pics{
+#press-pics{
 	padding: 4px;
 }
 
