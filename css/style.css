@@ -17,7 +17,6 @@ body {
 	padding: 0 45px 20px;
 }
 
-
 #title{
 	color:rgb(158, 169, 165);
 	font: 5em "New Athena Unicode", Baskerville, "Times New Roman";
@@ -40,7 +39,7 @@ p{
 	/* rgb(98, 103, 115)	 */
 }
 
-div#press-pics img{
+#press-pics img{
 	-webkit-transition: border-color 500ms ease-out 0.1s;
 	-moz-transition: border-color 500ms ease-out 0.1s;
 	-o-transition: border-color 500ms ease-out 0.1s;
